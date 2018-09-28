@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Recycler Demo</string>
+    <string name="name_student">Student Name</string>
+    <string name="address_student">Address</string>
+    <string name="age_student">Ages</string>
+    <string name="title_1">Spiderman</string>
+    <string name="title_2">Avengers</string>
+    <string name="title_3">Iron man</string>
 </resources>
